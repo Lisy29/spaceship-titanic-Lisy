@@ -53,7 +53,10 @@ El **Titanic Espacial**, con casi 13.000 pasajeros a bordo, partió hacia tres e
  ┣ 📂 Archivos
  ┣ 📂 Briefering
  ┣ 📂 notebooks
- ┗ 📜 README.md
+ ┣ 📜 README.md
+ ┣ ⚙️funcion_limpieza.py
+ ┣ 📄archivo init
+ ┗ 📝requirements.txt
 ```
 
 ---
