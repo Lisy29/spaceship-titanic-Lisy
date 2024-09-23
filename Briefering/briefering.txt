@@ -1,0 +1,22 @@
+Aprendizaje supervisado,
+Clasificación
+
+Planteamiento
+Kaggle es la comunidad de ciencia de datos más grande que hay. En su página web se
+pueden encontrar cuadernos de jupyter de toda la comunidad, una gran cantidad de datos
+reales para utilizar, un foro, cursos, y competiciones.
+Algunas de estas competiciones son de empresas importantes en el sector que buscan
+talento y ofrecen premios económicos bastante elevados, a las cuales hay que apuntarse y
+tienen unos plazos. Otras son permanentes y tienen fines pedagógicos. Es el caso del
+Spaceship Titanic.
+En este proyecto vamos a participar en esa competición.
+Plazos
+La entrega y finalización del proyecto será antes del Lunes 23 de Septiembre.
+Condiciones de entrega
+Será necesario entregar una captura de pantalla con el score logrado y la posición en el
+leaderboard
+Tecnologías a usar
+● Sklearn
+● Kaggle
+
+https://www.kaggle.com/c/spaceship-titanic/overview 
